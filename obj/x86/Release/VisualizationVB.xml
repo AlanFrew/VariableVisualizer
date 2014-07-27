@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VisualizationVB
+</name>
+</assembly>
+<members>
+<member name="M:VisualizationVB.LocalVariableVisualizer.Visualize(System.String,System.Int32)">
+	<summary>
+ Outputs a list of local variables, followed by a line-wise summary of what local variables are in use
+ </summary>
+	<param name="suppressSubsetsOfSize">Causes sections of the specified size or less to be condensed into a '.'</param>
+	<returns>Nothing</returns>
+	<remarks></remarks>
+</member><member name="P:VisualizationVB.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:VisualizationVB.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:VisualizationVB.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
